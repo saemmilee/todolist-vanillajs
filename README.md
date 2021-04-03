@@ -21,10 +21,10 @@ Visual Studio Code @1.54.3
 ### 자료출처
 ------------
 *to do list 참고 자료
-Nomad coders의 초보자를 위한 바닐라 자바 스크립트 #1-1~#3-11 : <https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ> 
+>Nomad coders의 초보자를 위한 바닐라 자바 스크립트 #1-1~#3-11 : <https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ> 
 
 *Backgorund에 사용한 이미지
-무료 이미지 사이트 : <https://unsplash.com/t/nature>
+>무료 이미지 사이트 : <https://unsplash.com/t/nature>
 
 ### 프로젝트 진행 기간
 ------------
