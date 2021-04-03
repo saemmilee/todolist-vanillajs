@@ -27,7 +27,7 @@ to do list 참고 자료
 ><https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ> 
 
 Backgorund에 사용한 이미지
->무료 이미지 사이트 <br>   
+>무료 이미지 사이트 <br>
 ><https://unsplash.com/t/nature>
 
 ### 프로젝트 진행 기간
