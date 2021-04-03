@@ -20,10 +20,9 @@ HTML5에서 추가된 localstorage를 이용해 데이터를 저장하여 <br>
 * Visual Studio Code @1.54.3
 * VanillaJS
 
-### 자료출처
+### 자료
 ------------
-to do list 참고 자료
->Nomad coders의 초보자를 위한 바닐라 자바 스크립트 #1-1~#3-11 <br> 
+to do list 참고 자료 : Nomad coders의 초보자를 위한 바닐라 자바 스크립트 #1-1~#3-11
 ><https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ> 
 
 Backgorund에 사용한 이미지
