@@ -14,9 +14,10 @@ HTML5에서 추가된 localstorage를 이용해 데이터를 저장하여 사용
 ------------
 ![todolist](https://user-images.githubusercontent.com/81849019/113478046-50cad080-94c1-11eb-94f3-b9999a81c344.PNG)
 
-### 개발환경
+### 개발환경&사용언어
 ------------
-Visual Studio Code @1.54.3
+* Visual Studio Code @1.54.3
+* VanillaJS
 
 ### 자료출처
 ------------
